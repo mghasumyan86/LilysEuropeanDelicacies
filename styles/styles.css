@@ -1,0 +1,140 @@
+*{
+background-color:#FADBD8;
+}
+
+#firsttitle{
+    font-size:80px;
+    font-family:'Brush Script MT';
+    font-style:italic;
+    text-align:center;
+    padding-top:20px;
+    
+    
+}
+header{
+    font-size:20px;
+    font-family:'Andale Mono, monospace';
+    text-align:center;
+    
+} 
+ .content{
+    border:2px solid black;
+    
+    text-align:center;
+    font-size:15px;
+    font-family:'Andale Mono, monospace';
+    
+ }   
+#navis{
+    padding-top:40px;
+    text-align:center;
+    font-size:35px;
+    font-family:'Andale Mono, monospace';
+    font-style: italic;
+    
+}
+footer{
+    text-align:center;
+    font-size:15px;
+    font-family:'Andale Mono, monospace';
+    
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+
+#wrapper{
+    
+    margin-top:40px;
+    margin-bottom:40px;
+    margin-right:40px;
+    margin-left:40px;
+    
+}
+
+div.column{
+    margin:20px;
+   
+    float:left;
+}
+
+
+
+div.menu{
+    text-align:center;
+    font-family:'Andale Mono, monospace';
+
+   
+}
+h1{
+    text-decoration:underline black 3px;
+    text-align:center;
+    font-family:'Adale Mono, monospace';
+}
+#price{
+    
+    font-family:"Andale Mono, monospace";
+    font-size:17px;
+}
+#ourstory{
+  font-size:20px;
+  
+}
+#home{
+font-size:17px;
+}
+h3{
+    font-family:"Andale Mono,monospace";
+    font-weight:normal;
+    font-size:20px;
+}
+p{
+    font-family:"Andale Mono, monospace";
+    font-size:15px;
+}
+.secondpic{
+    padding-left:20px;
+    padding-top:30px;
+}
+.checked{
+    color:orange;}
+#testimonials1{
+    background-color:beige;
+    margin-left:140px;
+    margin-right:140px;
+    padding-top:15px;
+    padding-bottom:15px;
+    font-family:"Andale Mono, monospace";
+    font-size:17px;
+}
+#testimonials4{
+    font-family:"Andale Mono, monospace";
+}
+#testimonials3{
+    background-color:beige;
+    margin-left:70px;
+    margin-right:70px;
+    padding-top:15px;
+    padding-bottom:15px;
+    font-family:"Andale Mono, monospace";
+    font-size:17px; 
+}
+#testimonials5{
+    background-color:beige;
+    margin-left:70px;
+    margin-right:70px;
+    padding-top:15px;
+    padding-bottom:15px;
+    font-family:"Andale Mono, monospace";
+    font-size:17px;
+}
+#special{
+    text-decoration:underline;
+    font-family:"Andale Mono, monospace";
+    font-size:25px;
+
+}
+#personalized{
+    font-style:italic;
+}
